@@ -47,6 +47,9 @@ The introduction of Vision Transformers marked a significant shift in computer v
 
 # RESOURCES 
 Dataset : https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
-Offical Paper : An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale - https://arxiv.org/abs/2010.11929
-
-
+* Offical Paper : An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale - https://arxiv.org/abs/2010.11929
+* Do Vision Transformers See Like Convolutional Neural Networks? : https://arxiv.org/pdf/2108.08810
+* Vision Transformers vs. Convolutional Neural Networks : https://medium.com/@faheemrustamy/vision-transformers-vs-convolutional-neural-networks-5fe8f9e18efc
+* Comparison of Convolutional Neural Networks and Vision Transformers (ViTs) : https://medium.com/@iliaspapastratis/comparison-of-convolutional-neural-networks-and-vision-transformers-vits-a8fc5486c5be
+* Are Transformers better than CNN’s at Image Recognition? : https://towardsdatascience.com/are-transformers-better-than-cnns-at-image-recognition-ced60ccc7c8
+* Comparing Vision Transformers and Convolutional Neural Networks for Image Classification: A Literature Review : https://www.researchgate.net/publication/370462929_Comparing_Vision_Transformers_and_Convolutional_Neural_Networks_for_Image_Classification_A_Literature_Review
