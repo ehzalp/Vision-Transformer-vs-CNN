@@ -2,6 +2,9 @@
 Comparison of Convolutional Neural Networks and Vision Transformers (ViTs)
 [Uploading brainfmri-vitvscnn.ipynb…]()
 
+![vision-transformer](https://github.com/ehzalp/Vision-Transformer-vs-CNN/assets/80691995/a2bf6852-4606-4a0e-93af-038ba99cd699)
+
+
   CNNs have been the de facto standard for visual recognition tasks for the better part of a decade. Yet, recent developments in the world of deep learning have introduced a new contender in the realm of computer vision: the Vision Transformer (ViT).
   Originally designed for natural language processing tasks, Transformer architectures have proven their versatility and effectiveness across multiple domains. In 2020, researchers adapted the Transformer model for image recognition tasks, and the Vision Transformer was born. 
 As ViTs continue to gain traction, a pressing question arises: Will Vision Transformers replace CNNs as the go-to architecture for computer vision applications?
